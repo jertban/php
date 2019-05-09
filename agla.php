@@ -16,6 +16,6 @@ foreach (array('_COOKIE','_POST','_GET') as $_request)
         $$_key=  $_value;
     }
 }
-$id = isset($jsha) ? $id : 2;
-log1($jsha);
+$id = isset($agla) ? $id : 2;
+log1($agla);
 ?>
